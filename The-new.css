@@ -1,0 +1,21 @@
+body,html{
+	background-image: url("https://i.ytimg.com/vi/kkBgqTXLgTw/maxresdefault.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100%;
+	background-size: cover; 
+}
+
+h1{
+	color: red;
+	
+}
+
+form{
+	color: yellow;
+} 
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	
+}
